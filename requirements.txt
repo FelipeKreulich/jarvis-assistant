@@ -1,0 +1,7 @@
+PyQt6
+PyQt6-WebEngine
+groq
+SpeechRecognition
+PyAudio
+numpy
+edge-tts
